@@ -1,4 +1,4 @@
-# Unit 4, Part 2 - HTML/CSS Practice
+# Unit 4, Part 2 - HTML/CSS Practice 
 
 This unit we'll be pulling together all of the Javascript techniques you've learned thus far as well as practicing with HTML & CSS.
 
